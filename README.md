@@ -1,4 +1,3 @@
 # assignment-1
-#new line
-#new
-kkk
+this is a new line
+second line
